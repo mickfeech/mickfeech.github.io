@@ -4,7 +4,6 @@ title:            The Tech Herd
 locale:           en_US
 url:              http://mickfeech.github.io
 
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/
