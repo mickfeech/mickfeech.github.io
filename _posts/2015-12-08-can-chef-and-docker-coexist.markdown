@@ -17,7 +17,7 @@ Using Chef Machine to provision Docker containers is a pretty cool thing but doe
 
 Another option is to bake chef-zero or chef-solo (a simple, easy-run, fast-start in-memory Chef server for testing and solo purposes) into a base OS Docker image.  You could then create a Dockerfile that used chef-zero in a similar fashion to apt or yum, but you would also have the luxury of chef being able to configure your service for you.  The other advantage, as I see it, is that you are now able to reuse those recipes for other deployment types (virtual machines, bare metal, and cloud).  So my thought is something like this...
 
-```
+~~~
 FROM ubuntu:15.10
 MAINTAINER me@someaddress.com
 RUN curl -L https://www.chef.io/chef/install.sh | sudo bash
@@ -27,5 +27,6 @@ ADD . /chef
 RUN cd /chef && /opt/chef/embedded/bin/berks install --path /chef/cookbooks
 RUN chef-solo -c /chef/solo.rb -j /chef/solo.json
 CMD["some_executable"]
-```
+~~~
+
 What am I missing in the way that these tools can or should coexist?
