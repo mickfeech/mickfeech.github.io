@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mickfeech
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mickfeech.github.io
+  * I am mickfeech (https://keybase.io/mickfeech) on keybase.
+  * I have a public key with fingerprint 641B 58CC F66F FE73 C5FA  BDD4 2A9E 77FC 473B 34AC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013d914699d38c065e00a12757b5435b4e61d8252370c43df993ee657b6560aa650a",
+            "fingerprint": "641b58ccf66ffe73c5fabdd42a9e77fc473b34ac",
+            "host": "keybase.io",
+            "key_id": "2a9e77fc473b34ac",
+            "kid": "01013d914699d38c065e00a12757b5435b4e61d8252370c43df993ee657b6560aa650a",
+            "uid": "895201cc22533d62aaa533be0ef6b819",
+            "username": "mickfeech"
+        },
+        "service": {
+            "hostname": "mickfeech.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476907327,
+    "expire_in": 157680000,
+    "prev": "0603f1774447779eef8db02911569f759b587c7c7c5ed1810d7151cb04ad0262",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJdSBRBHL/r6+pAlL7EIql9DJOZ3Z2Z3bPSIyEMom8QFK7d2dm77fT2
+ut07lcNQ64SgLiutqIeICIK+EMqHfEijIqyoqJfMSiqKgpI+XsSsZq1eosdmHmbm
+P7/fb37///xvFEz3Bf3KrGWXivbmzvvvDJ5M+2oDDyuzgm4bLUIoK8TZ1MIaDOa4
+kbhlCCEBQAAlQ4UyVlVDUijAiAGgQZEgoiNZQrrMMDQUEYkSAVSWDFNVJcYwv8YI
+A03DCGhCmWBaiShLJVNWwuWyWIY6Uig1MTZNRiSKTE03DFnUVEaISWUi6ZKsUU6M
+2Y7H4OZ0zWHlls1j/BCZsvcP/H/2nZ6SU1QkAkipKCJJMrCoaRrf6AwwE+sKVD2g
+w1IJrZFxdKNF4yZjNCa0lgk8nLEo8yrrpfI3pDxqubG0/iuvZMp2bWo3cEDMdZNO
+yBNwW5Ieo4npkd9aEd1KGLyenJFhKceyE0IIciR1LU8cygSrgEgiKRNYc9JKsYjl
+IRDBCuDDe4dlvCJhIJmQEFmWCSEqY6Zi6EBUIURYNQlS+R8R6k3EDKhAYBCIINWB
+rBlAxKLgZbczYQshmdvUolzSsaIJzU2nmNB6faB+hs8f9M2aOc3rM19wTtGf7svO
+DYz7rVHftqbwxKr63OpTVcVFg+uGtmaOnUvf3zE/vPjWze6hvivmvq1O24eseW05
+8wdWnn9RMjSR+7L99oR/y+54Lz06Gb76bE/5qYXHP3d/fPpgU+W0DXUD1c+HJxvr
+umpaSnp0a95o4YGPhaXV27L9vRX783PXviZtmzbW3zscCw5QIR/vWX/rezq+4GT+
+7tcLFcWDtv/x5ZHenoJd4PTBJf7hJ8Md/SvCi8S+e/Ya65ujTGr5+FmU7sqkPi06
+0v9orP9qfvz96FjByIlm4/SOwbckGe4YeWNXdZY+rv1x5Him88xFdCjwqioQfVk+
+70bNh05c3/5uaVqaXZPbv/lZ+08OET+e
+=PCo/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mickfeech
+
+==================================================================
